@@ -16,7 +16,7 @@ timezone:
 
 title: TF(TryFirst) # the main title
 
-tagline: Penetration-Testing,Active-Directory,Red-Team,Cybersecurity,CTF,Web,Linux and Windows # it will display as the subtitle
+tagline: Penetration-Testing, Active-Directory, Red-Team # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
