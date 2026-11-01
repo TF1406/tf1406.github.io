@@ -30,6 +30,7 @@ I’m a security researcher, writer, blogger and member of Synack Red Team. This
 - Hades
 - XEN
 - P.O.O.
+- PUPPET
 - Mythical
 - Arkeva
 
