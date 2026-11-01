@@ -529,3 +529,4 @@ A backup containing `.vmem` files should be treated as highly sensitive. Memory 
 - [VMkatz](https://github.com/nikaiw/VMkatz)
 - [ADScan](https://github.com/ADScanPro/adscan)
 - [ad-reaper](https://github.com/mermehr/ad-reaper)
+- [vsix_revshell](https://github.com/Goultarde/vsix_revshell.py)
